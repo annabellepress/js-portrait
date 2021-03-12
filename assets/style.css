@@ -1,0 +1,26 @@
+/*Define your CSS here*/
+body {
+	font-family: roc-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 4.5vw;
+	margin: 28px;
+}
+.photos {
+	text-align: center;
+}
+img {
+	width: 20%;
+}
+#egg {
+	padding-bottom: 10px;
+}
+#bio {
+	text-align: center;
+	padding: 40px;
+}
+
+.transparent {
+	opacity: 60%;
+}
+
